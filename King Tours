@@ -1,0 +1,5 @@
+n, m = map(int, input().split())
+
+total_people = (n * 5) + (m * 7)
+
+print(total_people)
